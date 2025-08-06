@@ -8,7 +8,7 @@ Excel-Based Analysis
   - Profit by Month
   - Sales by Region
   - Top-performing Sub-Categories
-  - 
+    
 Tools used: Excel, Pivot Tables, Conditional Formatting
 
 Python + Pandas Analysis
@@ -35,11 +35,11 @@ Power BI Dashboard
 
 Created an interactive dashboard with:
 
-KPI Cards: Total Sales, Profit, Orders, Avg Discount
-Bar Charts: Sales by Region, Profit by Sub-Category
-Donut Chart: Sales by Ship Mode
-Table: Top 5 Customers by Sales
-Added slicers for Region, Category, and Segment
+- KPI Cards: Total Sales, Profit, Orders, Avg Discount
+- Bar Charts: Sales by Region, Profit by Sub-Category
+- Donut Chart: Sales by Ship Mode
+- Table: Top 5 Customers by Sales
+- Added slicers for Region, Category, and Segment
 
 Tools Used: Power BI Desktop
 
